@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-ivv0l)xqwyn@vooxetnzfw=v!$i*xq+(7#o!t%!5np1xrko3o$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['gogomommy.pythonanywhere.com']
+ALLOWED_HOSTS = ['gogomommy.pythonanywhere.com', '198.211.99.20', 'localhost', '127.0.0.1']
 
 
 # Application definition
