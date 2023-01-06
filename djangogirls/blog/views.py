@@ -6,4 +6,4 @@ def post_list(request):
         posts = Post.objects.all()
         return render(request, 'blog/post_list.html', {'posts': posts})
 
-# some text to test
+# some text to test test
